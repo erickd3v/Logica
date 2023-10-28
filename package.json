@@ -1,0 +1,25 @@
+{
+  "name": "logica",
+  "version": "1.0.0",
+  "description": "Creado para resolver ejercicios de logica de diferentes niveles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erickd3v/Logica.git"
+  },
+  "keywords": [
+    "\"erickdev\"",
+    "\"node\"",
+    "\"logica\"",
+    "\"algoritmos\""
+  ],
+  "author": "Erick Yusuke Moya Flores - erickdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickd3v/Logica/issues"
+  },
+  "homepage": "https://github.com/erickd3v/Logica#readme"
+}
